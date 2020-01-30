@@ -6,6 +6,7 @@ public class Calculator {
         int secondNum = 3;
         int sum;
 
+        //this method add two numbers
         sum = firstNum + secondNum;
 
         System.out.println(sum );
